@@ -34,7 +34,7 @@ header h1 {
 }
 
 .event-card {
-    background: #141b3a;
+    background: #ffffff;
     padding: 25px;
     border-radius: 15px;
     text-align: center;
@@ -50,5 +50,6 @@ header h1 {
     from { transform: translateY(-50px); opacity: 0; }
     to { transform: translateY(0); opacity: 1; }
 }
+
 
 
